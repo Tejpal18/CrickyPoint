@@ -1,0 +1,1661 @@
+
+
+#bg{background-image:url('Background.png');background-size:cover; height:800px;
+}
+
+	
+	@media (max-width: 688px) {
+		#bg {
+		  height: auto;
+		}
+	}
+
+	
+
+#marnus{
+	background-image:url('20220821_084527_0000.png');
+	width : 620px;
+	height : 500px;
+	box-shadow : 4px 4px 4px 4px #D3D3D3;
+	border-radius : 5px;
+	margin-left : 40px;
+	}
+#navmargin{
+	
+	font-family : sans-serif;
+	font-weight : 600;
+	font-size : 15px;
+	margin-top : 15;
+	
+}
+.logom{
+
+margin-top : -110px;	
+	
+}
+
+#navh{
+	
+	color :  white;
+	font-size : 17px;
+	position : relative;
+	font-weight : 550px;
+
+}
+#navh:hover span{
+	
+	color:#AFC84B;
+}
+.logof{
+	
+	
+	
+margin-top : -50px;
+	margin-left : 70px;
+	
+}
+#navmargin1{
+	
+	font-family : sans-serif;
+	font-weight : 600;
+	font-size : 15px;
+	margin-top : 15;
+margin-left : 500px;
+
+}
+.navcolor{
+	
+	
+	background-color : #272626;
+}
+.cricmargin{
+	
+	margin-left : 50px;
+}
+
+#booknow{
+	
+	margin-top : 15;
+
+}
+.cm{
+	border-radius : 10px;
+	margin-left :-20px;
+}
+#associationmargin{
+	
+
+font-weight : 800px;
+font-size : 30px;
+font-family : sans-serif;
+letter-spacing : 1px;
+color: white;
+	background-color:  #1F1F1F;
+	padding : 12px;
+	}
+	.gc{
+		
+		margin-left : 80px;
+	}
+	.gc1{
+		
+		margin-left : 60px;
+		
+	}
+	
+	.gc2{
+		
+		margin-left : 80px;
+		margin-bottom : 100px;
+	}
+	
+	
+	.gc3{
+		
+		margin-left : 60px;
+		margin-bottom : 100px;
+	}
+	
+	#gr{
+		
+		
+margin-top : 100px;
+	}
+	
+	#gr1{
+		
+		margin-top : 150px;
+	}
+
+#bloodmargin{
+	margin-top : 350px;
+	margin-left : 30px;
+text-align : center;
+font-weight : 800px;
+font-size : 50px;
+font-family : sans-serif;
+letter-spacing : 1px;
+color: white;
+	
+	}
+#ourgallery{
+	
+	margin-left : 30px;
+
+font-weight : 800px;
+font-size : 60px;
+font-family : sans-serif;
+letter-spacing : 1px;
+color: white;
+margin-top : -20px;
+	}
+	
+	#gallerynew{
+	
+background-image:url('association.png');
+background-size : cover;
+ width:100%; height:800px;
+	box-shadow : 4px 4px 4px 4px none;
+	border-radius : 20px;
+margin-left : 2px;
+	margin-top : 800px;
+	
+}
+
+#gallery1{
+	
+background-image:url('drills.jpg');
+background-size : cover;
+ width:100%; height:800px;
+	box-shadow : 4px 4px 4px 4px none;
+	border-radius : 20px;
+margin-left : 2px;
+	margin-top : 100px;
+	
+}
+
+#gallery2{
+	
+background-image:url('cricketw.jpg');
+background-size : cover;
+ width:100%; height:800px;
+	box-shadow : 4px 4px 4px 4px none;
+	border-radius : 20px;
+margin-left : 2px;
+	margin-top : 100px;
+	
+}
+
+#gallery3{
+	
+background-image:url('pm.png');
+background-size : cover;
+ width:100%; height:800px;
+	box-shadow : 4px 4px 4px 4px none;
+	border-radius : 20px;
+margin-left : 2px;
+	margin-top : 100px;
+	
+}
+#gallery4{
+	
+background-image:url('senior.png');
+background-size : cover;
+ width:100%; height:800px;
+	box-shadow : 4px 4px 4px 4px none;
+	border-radius : 20px;
+margin-left : 2px;
+	margin-top : 100px;
+	
+}
+
+
+#gallerypractice{
+	
+background-image:url('yuvi.jpg');
+background-size : cover;
+ width:100%; height:800px;
+	box-shadow : 4px 4px 4px 4px none;
+	border-radius : 20px;
+margin-left : 2px;
+	margin-top : 100px;
+	
+}
+#containermargin{
+	margin-top : 500px;
+	margin-left : 10px;}
+#gallery{
+	
+background-image:url('batsman.png');
+background-size : cover;
+width : 98%; height:700px;
+	box-shadow : 4px 4px 4px 4px none;
+	border-radius : 20px;
+margin-left : 15px;
+	margin-top : 300px;
+
+	
+}
+.blog{
+
+	box-shadow : 4px 4px 4px 4px none;
+	border-radius : 20px;
+	
+
+	
+}
+
+#exp{
+	background-color : white;
+	
+	box-shadow : 1px 1px 1px 1px #D3D3D3;
+	border-radius : 1000px;
+width : 150px;
+height : 150px;
+margin-left : -40px;
+margin-top : -120px;
+letter-spacing : 1px;
+ padding-top : 25px;
+}
+
+#e1{
+	font-family : sans-serif;
+	font-size : 30px;
+	font-weight : 800;
+	letter-spacing : 1px;
+	margin-left :45px;
+	margin-bottom : -40;
+	
+	}
+	
+	#e2{
+	font-family : sans-serif;
+	font-size : 30px;
+	font-weight : 750;
+	color : orange;
+	letter-spacing : 1px;
+	margin-left : 5px;
+	}
+	
+	.e3{
+	font-family : sans-serif;
+	font-size : 15px;
+	font-weight : 750;
+	text-align  : center;	letter-spacing : 1px;
+	margin-left : 50px;
+	
+	}
+	
+	.e4{
+	font-family : sans-serif;
+	font-size : 15px;
+	font-weight : 750;
+	text-align  : center;	letter-spacing : 1px;
+	margin-left : 25px;
+	}
+	
+#vk{
+background-image:url('20220731_101406_0000.png'); 
+background-size:cover;
+ height:800px;
+ margin-top : 200px;
+ }
+ 
+ #coaches{
+background-image:url('brendon.png'); 
+background-size:cover;
+ height:660px;
+ 
+ }
+ 
+  
+ #pl{
+background-image:url('pl.png'); 
+background-size:cover;
+ height:660px;
+ 
+ }
+
+ #mapset{
+	 margin-top : 50px;
+	 margin-left : 65px;	 
+ }
+ 
+ #bl{
+background-image:url('blog.png'); 
+background-size:cover;
+ height:660px;
+ 
+ }
+ 
+#t{
+background-image:url('team.png'); 
+background-size:cover;
+ height:660px;
+ 
+ } 
+ 
+ #s{
+background-image:url('contactus.png'); 
+background-size:cover;
+ height:660px;
+ 
+ } 
+ 
+ .meet{
+	 
+	 font-size : 80px;
+	 color : white;
+	 font-weight : 800px;
+	 font-family : sans-serif;
+	 margin-left : 40px;
+	 
+ }
+ 
+ #bgcoach {
+    font-family: sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    color: white;
+    background-color: #AFC84B;
+    width : 21%;
+  margin-top : -420px;
+	margin-left : 1000px;
+	height : 50px;
+}
+ #footerimage{
+background-image:url('20220817_200954_0000.png');
+background-size:cover;
+ height:500px;
+ }
+ 
+  #gallerybg{
+background-image:url('gallerybg.png');
+background-size:cover;
+ height:800px;
+ }
+ 
+ #footernav{
+	 
+	
+	 
+	 margin-top : 70px;
+	 margin-left : 65px;
+	 
+	 
+ }
+ 
+ #fc{
+	  font-weight : 1500px;
+	 font-size : 17px;
+	 font-family : sans-serif;
+	 color : #AFC84B;
+ }
+ 
+ #hr{
+	 color : #AFC84B;
+	 height : 2px;
+	 width : 1290px;
+     margin-left : 100px;
+	 
+ }
+ #mobile{
+	
+	 color: white;
+	 font-weight:750px;
+	 font-size : 20px;
+	 letter-spacing : 1;
+	
+	font-family : sans-serif;
+	margin-top : 37;
+	margin-left : 48px;
+ }
+ 
+ #footerupperimage{
+	
+	 color : lightgreen;
+	 font-size : 35;
+	 font-weight  : 800;
+	 
+ }
+ #bgformga{
+	
+	
+	font-family : sans-serif;
+	font-size : 40px;
+	letter-spacing : 1px;
+	color : white;
+	
+	width : 45%;
+margin-left : 300px;
+margin-top : -10px;
+
+
+  
+  
+    background-color: #AFC84B;
+
+	
+	height : 60px;
+	padding-left : 4px;
+	padding-bottom : 4px;
+}
+ .gcb{
+	 
+	 
+	 font-size : 35px;
+	 font-family : sans-serif ;
+	 color : white ;
+	 background-color: #AFC84B;
+	 text-align : center;
+	 width : 32%;
+	 padding : 8px;
+	 margin-left : 450px;
+ }
+ 
+ #ghr{
+	 
+	 color : #AFC84B;
+	 height : 3px;
+	 width : 32%;
+	 margin-left : 450px;
+ }
+ 
+ .gg{
+	 
+	 text-align : center;
+	 font-family : sans-serif;
+	 font-size : 40px;
+	 font-weight : 800px;
+	 letter-spacing : 1px;
+	 
+ }
+#bgformh{
+	
+	
+	font-family : sans-serif;
+	font-size : 40px;
+	letter-spacing : 1px;
+	color : white;
+	background-color : #AFC84B;
+	width : 240px;
+margin-left : 1010px;
+margin-top : -100px;
+padding-left : 4px;
+	padding-bottom : 4px;
+	padding : 4px;
+	
+	
+}
+
+#bgformi{
+	
+	
+	font-family : sans-serif;
+	font-size : 40px;
+	letter-spacing : 1px;
+	color : white;
+	background-color : #AFC84B;
+	width : 256px;
+margin-left : 1010px;
+margin-top : -100px;
+padding-left : 4px;
+	padding-bottom : 4px;
+	padding : 4px;
+	
+	
+}
+
+#bgformk{
+	
+	
+	font-family : sans-serif;
+	font-size : 40px;
+	letter-spacing : 1px;
+	color : white;
+	background-color : #AFC84B;
+	width : 365px;
+margin-left : 890px;
+margin-top : -100px;
+padding-left : 4px;
+	padding-bottom : 4px;
+	padding : 4px;
+	
+	
+}
+
+
+.bi{
+	
+background-image:url('bmbm.jpg');
+
+	background-size : cover;
+	background-position : center top;
+	height : auto;
+	
+}
+
+.bi2{
+	
+background-image:url('Satyabrata Murmu.jpg');
+
+	background-position : center top;
+
+	background-size : cover;
+	height : auto;
+	
+}
+
+.bi3{
+	
+background-image:url('Boddupalli Amit.jpg');
+
+	
+background-position : center top;
+	background-size : cover;
+	height : auto;
+	
+}
+.mn{
+	
+	margin-right : -1000px;
+}
+
+.bi1{
+	
+background-image:url('Sandipan Das.jpg');
+background-position : center top;
+	
+
+	background-size : cover;
+	height : auto;
+}
+
+#bgformn{
+	
+	
+	font-family : sans-serif;
+	font-size : 40px;
+	letter-spacing : 1px;
+	color : white;
+	background-color : #AFC84B;
+	width : 405px;
+margin-left : 840px;
+margin-top : -90px;
+padding-left : 4px;
+	padding-bottom : 4px;
+	padding : 4px;
+	
+	
+}
+
+
+#bgformo{
+	
+	
+	font-family : sans-serif;
+	font-size : 40px;
+	letter-spacing : 1px;
+	color : white;
+	background-color : #AFC84B;
+	width : 315px;
+margin-left : 930px;
+margin-top : -90px;
+padding-left : 4px;
+	padding-bottom : 4px;
+	padding : 4px;
+	
+	
+}
+
+
+#bgformg{
+	
+	
+	font-family : sans-serif;
+	font-size : 60px;
+	letter-spacing : 1px;
+	color : white;
+	margin-top : 140px;
+	margin-left  : 20px;
+
+
+}
+
+.bgmeet{
+	
+	
+	font-family : sans-serif;
+	font-size : 60px;
+	letter-spacing : 1px;
+	color : white;
+	margin-top : 175px;
+	margin-left : 20px;
+
+
+}
+ #h2margin{
+	 font-family : sans-serif;
+	 margin-top : 100;
+	 margin-left : 100;
+ }
+ #footerparagraph{
+	 
+	 margin-top : -140px;
+	 color : white;
+	 font-family : sans-serif;
+	 font-size : 17;
+	 font-weight : 800px;
+	 margin-left : 100px;
+ }
+ #point{
+	 
+	 
+	 color : white;
+	 font-size : 35;
+	 font-weight  : 800;
+	 
+ }
+
+.cc{
+	
+	color : orange;
+	margin-top: 8px;
+	font-weight : 800px;
+	font-size : 18px;
+} 
+ .ourcoaches
+ {
+	 
+	 margin-top : 100px;
+	 font-family : sans-serif;
+	 font-weight: 800px;
+	 border-radius: 4px;
+	 font-size : 30px;
+
+	 
+ }
+ #label{
+	 
+	 margin-top : 100px;
+     font-family : sans-serif;
+	 font-size : 25px;
+	 font-weight : 700;
+	 color : white;
+	
+ }
+ #email{
+	 margin-top : 20;
+	
+ }
+ #subscribe{
+	font-family : sans-serif;
+	font-weight : 550px;
+	
+	
+    margin-top : 20;	
+	background : -webkit-linear-gradient(right,#a6f77b,#25523B);
+	
+	 outline : none;
+	 
+	
+	border : none;
+	
+	
+   color : white;
+ }
+ 
+ #formmargin{
+	 
+	 margin-left : 100;
+ }
+ #mg{
+	 margin-left : 100px;
+ }
+
+ #champions{
+	 text-align : center;
+	 margin-top : 300;
+font-family : sans-serif;
+font-weight: 800;
+ font-size : 60px;
+ color : white;
+margin-left : 380;
+letter-spacing :2;
+line-height : 1;
+ border : 4px solid orange ;
+ display: inline-block;
+
+padding : 25;
+
+ }
+ 
+ #registerteam{
+	 position : relative;
+	 font-size : 40px;
+
+	 background-color: orange;
+    margin-top: 25;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: black;
+text-align : center;
+    letter-spacing: 2;
+    
+    fill: white;
+    display: inline-block;
+    padding: 5;
+    mix-blend-mode: screen;
+	 
+ }
+ 
+ .coachi{
+	 margin-top : 30px;
+	 color : #AFC84B;
+	
+	font-size : 40px;
+	margin-bottom  : 100px;
+ }
+ 
+ .coacht{
+	 margin-top : 30px;
+	 color : #AFC84B;
+	font-size : 40px;
+	margin-left : 20px;
+	margin-bottom  : 100px;
+ }
+ 
+ .coachl{
+	 margin-top : 30px;
+	 color : #AFC84B;
+	font-size : 40px;
+	margin-left : 20px;
+	margin-bottom  : 100px;
+ }
+ #border{
+	 
+	 border : 3px solid orange;
+	display : inline-block;
+ }
+ 
+ #vl{
+	 border-left : 4px solid white;
+	 height : 50px;
+	 margin-right : 2px;
+ }
+ #fp{
+	 
+	 font-size : 20px;
+	 font-family : sans-serif;
+	 font-weight : 750px;
+	 letter-spacing : 1px;
+	 margin-top : 100px;
+	 margin-left : 50px;
+ }
+ 
+ #fh{
+	 
+	 font-size : 50px;
+	 font-family : sans-serif;
+	 font-weight : 1000px;
+	 letter-spacing : 1px;
+	 margin-top : 1px;
+	 margin-left : 50px;
+ }
+ 
+ #fpr{
+	 
+	 font-size : 15px;
+	 font-family : sans-serif;
+	 font-weight : 700px;
+	 letter-spacing : 1px;
+	 margin-top : 1px;
+	 margin-left : 100px;
+ }
+ .none{
+	 
+
+	 margin-top : 10px;
+
+	 border : none;
+	 border-radius : 5px;
+	 width : 100%;
+	 height : 40px;
+ }
+ .nonen{
+	 
+
+	 margin-top : 10px;
+	
+	 border : none;
+	 border-radius : 5px;
+	 width : 100%;
+	 height : 40px;
+ }
+ 
+ .sendmessage{
+	 
+	 font-size : 22px;
+	 font-weight : 700px;
+     color : white;
+	 background : -webkit-linear-gradient(right,#a6f77b,#25523B);
+	 margin-top : 30px;
+	
+	 border : none;
+	 border-radius : 5px;
+	 width : 100%;
+	 height : 45px;
+ }
+ 
+ .sendmessage1{
+	 
+	 font-size : 22px;
+	 font-weight : 700px;
+     color : white;
+	 background : -webkit-linear-gradient(right,#a6f77b,#25523B);
+	 margin-bottom : -60px;
+	
+	 border : none;
+	 border-radius : 5px;
+	 width : 100%;
+	 height : 45px;
+ }
+  .labelfn{
+	  
+	  font-family : sans-serif;
+	  font-weight :600px;
+	  font-size : 20px;
+	  
+  }
+  
+  .labelf{
+	  
+	  font-family : sans-serif;
+	  font-weight :600px;
+	  font-size : 20px;
+	  margin-top : 40px;
+  }
+  
+  .noneme{
+	 
+
+	 margin-top : 10px;
+
+	 border : none;
+	 border-radius : 5px;
+	 width : 100%;
+	 height : 150px;
+ }
+ 
+ .opening{
+	 
+	
+	 border : 2px solid none;
+	box-shadow : 4px 4px 4px 4px #D3D3D3;
+	border-radius : 5px;
+	text-align : center;
+	
+ }
+ 
+ .opening1{
+	 
+	
+	 border : 2px solid none;
+	box-shadow : 4px 4px 4px 4px #D3D3D3;
+	border-radius : 5px;
+	text-align : center;
+	margin-left : 210px;
+	
+ }
+ 
+ .openingtext{
+	 
+	 font-family : sans-serif;
+	 font-size : 40px;
+	 font-weight : 1200px;
+	 letter-spacing : 1px;
+ }
+ 
+ .openingexp{
+	 
+	 font-family : sans-serif;
+	 font-size : 18px;
+	 font-weight : 800px;
+	 letter-spacing : 1px;
+	 margin-top : 25px;
+	 margin-bottom : 40px;
+ }
+ 
+ .openingmargin{
+	 
+	margin-top : 30px;
+
+	
+ }
+ 
+ #form{
+	 margin-left : 70px;
+	 margin-top : 100px;
+	 border-radius : 8px;
+	 border : 2px;
+	 
+	 background-color : #F2F7F3;
+	 width : 90%;
+	 padding : 50px 50px 50px 50px;
+ }
+ #unsubscribe{
+	 
+	 margin-top : 20px;
+	 color : white;
+	 font-family : sans-serif;
+	 font-size : 15px;
+	 font-weight : 700px;
+	 letter-spacing : 1px;
+	 
+ }
+ #joinus{
+margin-left : 35px;
+	font-family :sans-serif;
+	font-weight : 700;
+    margin-top : 30;
+    font-size : 15;
+	line-height : 5;
+	color : white;
+
+}
+#marginbottom{
+	
+	margin-left: 480;
+    margin-bottom : 350;
+    margin-top: 30;
+}
+
+.mgb{
+	
+
+    margin-bottom : 40;
+   
+}
+ 
+ #quotes{
+	 
+	 margin-top : 300;
+font-family : sans-serif;
+font-weight: 800;
+ font-size : 35px;
+ color : orange;
+letter-spacing :2;
+ }
+ #quotes2{
+	 
+	 margin-top : 300;
+font-family : sans-serif;
+font-weight: 800;
+ font-size : 35px;
+ color : orange;
+margin-left : 40;
+letter-spacing :2;
+ }
+ 
+#bg2{background-image:url('Background.png');
+background-size:cover; 
+height:600px;
+margin-top : 100;}
+#text{font-size:50px;}
+#events{background-image:url('Events.png');
+background-size:cover;
+ height:1000px;
+ margin-top : 100;}
+ 
+.orange{
+color:orange; 
+font-weight: 650; 
+text-align:center; 
+font-size : 25px;
+margin-top : 100;
+letter-spacing : 2px;}
+
+
+#getsetmatch{
+	
+	background : orange;
+	margin-top : 100;
+}
+#joinusbottom{
+	
+	font-family : sans-serif ;
+	font-weight : 800px;
+	font-size : 25;
+margin-left : 400px;
+margin-top : 9;
+
+}
+#getpadding{
+	
+	margin-top : 9;
+}
+#tournament{
+	
+	margin-top : 150px;
+	
+	margin-left : 300px;
+}
+#shadow{
+	
+	box-shadow : 4px 4px 4px 4px #D3D3D3;
+	border-radius : 20px;
+   
+	
+}
+
+.reshadow{
+	
+	box-shadow : 8px 8px 8px 8px #D3D3D3;
+	border-radius : 500px;
+   border-color : white;
+	border : 10px solid white;
+	margin-top : 30px;
+}
+
+#shadow1{
+	
+	
+	box-shadow : 4px 4px 4px 4px #D3D3D3;
+	border-radius : 12px;
+	
+	
+}
+#comingsoonevent{
+	
+	margin-top : 200;
+	
+	color : orange;
+	font-weight : 800;
+	
+}
+
+.orange1{
+color:orange; 
+font-weight: 650; 
+ margin-left : 35px;
+ letter-spacing : 1px;
+font-size : 20px;
+
+font-family : sans-serif;
+
+}
+.yuvi{
+color:#808080; 
+font-weight: 700; 
+ 
+ letter-spacing : 1px;
+font-size : 15px;
+
+font-family : sans-serif;
+
+}
+#sign{
+	
+	font-family : 'Brittany Signature',sans-serif;
+	font-size : 60px;
+	font-weight : 1000;
+	margin-left : 580px;
+	margin-top : -40px;
+}
+#crd{
+	
+	width : 70%;
+	height : 300px;
+	margin-top : -140px;
+	margin-left : 380px;
+	background-color : #EEEEEE;
+	border : none;
+}
+
+.mt{
+	
+
+	font-family : sans-serif;
+	font-size : 20px;
+	letter-spacing : 1px;
+}
+.orange2{
+	margin-left : 20;
+margin-top : 50;
+
+}
+#margin{
+background-color : #EEEEEE;	
+
+}
+#greycolor{
+	
+	background-color : #EEEEEE;	
+	
+}
+
+#margin1{
+	
+	margin-top : 100;
+
+}
+#margin2{
+	
+	margin-top : 100;
+}
+.margin-top{
+	
+	margin-top : 100;
+}
+
+.center{
+	font-family :sans-serif;
+	margin-top : 25;
+	text-align : center;
+	font-size : 40px;
+ font-weight: 600;
+ letter-spacing : 1px;
+ } 
+ 
+ 
+ .professionalparagraph{
+	 
+	 margin-top : 15;
+	font-size : 15px;
+	font-weight : 600;
+	text-align :center;
+	margin-bottom : 100px;
+ }
+ .center1{
+	 margin-top :  25;
+	 text-align : center;
+ font-weight: 700;
+ color : #AFC84B;
+ font-size : 30px;
+ font-family : sans-serif;
+ letter-spacing : 1px;} 
+ 
+ .center2{
+	
+	 font-size : 60px;
+ font-weight: 700;
+ margin-top : 20;
+margin-left : 30px;
+ font-family :sans-serif;
+ letter-spacing : 1;
+ } 
+
+ .center3
+ {
+ font-family : sans-serif;
+ font-size : 16px;
+ margin-left : 35px;
+ text-align : justify;
+ font-weight: 550;
+ margin-top : 20;
+ }
+ #center3
+ {
+ font-family : sans-serif;
+ font-weight: 540;
+ margin-top : 18;
+ margin-left : 60;
+ 
+ }
+#professionalservice{
+font-family : sans-serif;
+font-weight: 800;
+ font-size : 60px;
+ color : white;
+ letter-spacing : 1;
+ margin-left : 70px;
+
+ 
+ }
+ 
+ #crickypoint{
+font-family : sans-serif;
+font-weight: 600;
+ font-size : 18px;
+ color : white;
+margin-left : 220px;
+margin-top : 30;
+letter-spacing : 2;
+ 
+ 
+ }
+ 
+ #dontmiss{
+font-family : sans-serif;
+font-weight: 600;
+ font-size : 15px;
+ color : lightgreen;
+margin-left : 100px;
+margin-top : 30;
+ letter-spacing : 2;
+ }
+ 
+ .lightgreen{
+font-family : sans-serif;
+font-weight: 600;
+ font-size : 30px;
+ color : orange;
+margin-left : 220px;
+margin-top : 10;
+ letter-spacing : 2;}
+ 
+ 
+ #lookup{
+font-family : sans-serif;
+font-weight: 800;
+ font-size : 60px;
+ color : white;
+
+margin-left : 220;
+letter-spacing :2;
+ 
+ }
+ 
+ #date{
+	 
+	background-color : orange;
+	 margin-top :50;
+font-family : sans-serif;
+font-weight: 600;
+color : black;
+ 
+margin-left : 220;
+letter-spacing :2;
+font-size : 40px;
+fill : white;
+display : inline-block;
+padding : 5;
+mix-blend-mode : screen;
+ }
+ 
+ .span{
+	 
+	 color : transparent;
+ }
+ 
+ #comingsoonevent{
+	 
+	 margin-top : 100;
+	 font-size : 20px;
+	 margin-left : 220;
+     font-weight : 800;
+     color : orange;	 
+ }
+.personalwardrobe{
+	
+	font-family : sans-serif;
+	font-weight : 750;
+    margin-left : 45;
+	margin-top : 10;
+	font-size : 20px;
+	
+} 
+.g{
+	
+	font-family : sans-serif;
+	font-weight : 750;
+    margin-left : 55;
+	margin-top : 10;
+	font-size : 20px;
+	
+} 
+
+.st{
+	
+	font-family : sans-serif;
+	font-weight : 750;
+    margin-left : 12;
+	margin-top : 10;
+	font-size : 20px;
+	
+} 
+
+.eq{
+	
+	font-family : sans-serif;
+	font-weight : 750;
+    margin-left : -10;
+	margin-top : 15px;
+	font-size : 20px;
+	
+} 
+.pw{
+	
+	font-family : sans-serif;
+	font-weight : 750;
+    margin-left : 65;
+	margin-top : 10;
+	font-size : 20px;
+	
+} 
+.w{
+	
+	font-family : sans-serif;
+	font-weight : 750;
+    margin-left : -3;
+	margin-top : 10;
+	font-size : 20px;
+	
+} 
+
+.nets{
+	
+	font-family : sans-serif;
+	font-weight : 750;
+    margin-left : 35;
+
+	font-size : 20px;
+}
+
+.pc{
+	
+	font-family : sans-serif;
+	font-weight : 750;
+    margin-left : 15;
+
+	font-size : 20px;
+}
+.clb{
+	
+	font-family : sans-serif;
+	font-weight : 750;
+    margin-left : 35;
+
+	font-size : 20px;
+}
+.margin-left{
+	
+	margin-left: 50px;
+}
+
+
+ #elements{
+	 
+	 margin-top : 220;
+	  
+	  margin-left : 65;
+ }
+ #elements1{
+
+	  margin-left : 65;
+	  margin-top : 180;
+ }
+ 
+#phone{
+	margin-top : 25px;
+    margin-left: 85px;
+	
+}
+ 
+ .bowlermargin{
+	 
+	 
+	margin-top : -75px;
+	margin-left : 65px;
+ }
+ #elements2{
+	 margin-top : 20;
+	  margin-left : 40;
+ }
+ #h6{
+	 
+	 
+	 margin-top : 100;
+	 font-weight : 800;
+	 letter-spacing : 1px;
+	 color : orange;
+	 margin-left : 60;
+ }
+ #cricketclub{
+	 
+	 color : orange; 
+	 font-weight : 800;
+	 font-size : 20px;
+	 margin-top : 20;
+	 margin-left : 70px;
+ }
+ 
+ #professionalservice1{
+font-family : sans-serif;
+font-weight: 795;
+ font-size : 41px;
+ letter-spacing : 1px;
+margin-left : 60px;
+margin-top : 10px;
+ }
+ 
+.professionalservice{
+	font-family : sans-serif;
+	font-weight: 600;
+	letter-spacing : 1px;
+	margin-top : 10;
+	margin-left : 70px;
+}
+#discovermore{
+	
+	
+	font-family : sans-serif;
+	font-weight : 550px;
+	padding : 8;
+	margin-left :600 ;
+    margin-top : 20;	
+	background : -webkit-linear-gradient(right,#a6f77b,#25523B);
+	height : 40px;
+	 width : 180px;
+	 outline : none;
+	  border-radius : 5px;
+	   padding : 5px 5px;
+	padding-bottom : 12spx;
+	border : none;
+	font-family : sans-serif;
+	font-weight : 550px;
+	
+   color : white;
+}
+
+#bookticket{
+	
+	margin-top : 30;
+	margin-left : 220 ; 
+	
+	font-size : 20px;
+	padding : 8;
+	font-family : sans-serif;
+	font-weight : 550px;
+	padding : 8;
+	
+
+	background : -webkit-linear-gradient(right,#a6f77b,#25523B);
+	height : 40px;
+	 width : 180px;
+	 outline : none;
+	  border-radius : 5px;
+	   padding : 5px 5px;
+	padding-bottom : 12spx;
+	border : none;
+	font-family : sans-serif;
+	font-weight : 550px;
+	
+   color : white;
+}
+.professionalimage{
+	
+	
+}
+.professionalservice1{
+	font-family : sans-serif;
+	font-weight: 600;
+	letter-spacing : 1px;
+	text-align : center;
+}
+
+.professionalservice2{
+	font-family : sans-serif;
+	font-weight: 800;
+	letter-spacing : 1px;
+	text-align : center;
+	margin-top : 20;
+	
+}
+.textcenter{
+	
+	margin-top : 20;
+	font-size : 15px;
+	font-weight : 600;
+	text-align : center;
+}
+
+#textcenter{
+	font-size : 15px;
+	font-weight : 550;
+	margin-top : 10;
+	text-align:center;
+	
+}
+
+#lightgreen{
+	
+	background-color: lightgreen;
+	margin-left : 400;
+}
+
+#rs{
+	
+    border : 2px solid none;
+	box-shadow : 8px 8px 8px 8px #D3D3D3;
+	border-radius : 10px;
+	margin-left :40px;
+}
+
+#rs1{
+	
+    border : 2px solid none;
+	box-shadow : 8px 8px 8px 8px #D3D3D3;
+	border-radius : 10px;
+	margin-left :120px;
+}
+
+#blogcard{
+	border : 2px solid white;
+	box-shadow : 8px 8px 8px #FFFFF;
+
+}
+
+.blogmargin{
+	
+	margin-left : 140px;
+}
+
+#blogmt{
+	
+	margin-top : 100px;
+}
+.bhc{
+	
+	font-family : sans-serif;
+	margin-top : 30px;
+	font-size : 30px;
+font-weight : 750px;
+
+
+}
+
+.bdc{
+	
+	letter-spacing : 1px;
+	font-family : sans-serif;
+	margin-top : 20px;
+	font-size : 18px;
+font-weight : 700px;
+color : #AFC84B;
+
+}
+
+.bpc{
+	
+	letter-spacing : 1px;
+	font-family : sans-serif;
+	margin-top : 20px;
+	font-size : 18px;
+font-weight : 700px;
+
+
+}
+
+
+
+#continuereading{
+	font-family : sans-serif;
+	margin-top : 20px;
+	font-size : 18px;
+font-weight : 800px;
+	margin-top : 20px;
+	color : black;
+	margin-left : -20px;
+}
+
+.searchmargin
+{
+	
+	margin-top: 100px;
+}
+.arrow{
+	
+	background-color : #AFC84B;
+	 font-size : 20px;
+	 font-weight : 700px;
+     color : white;
+margin-top : -3px;
+	 border : none;
+	 border-radius : 5px;
+	padding : 10px;
+}
+
+.register{
+	
+ background : -webkit-linear-gradient(right,#a6f77b,#25523B);
+  height : 40px;
+	 width : 120px;
+	 outline : none;
+	  border-radius : 5px;
+	   
+	border : none;
+	font-family : sans-serif;
+	font-weight : 550px;
+	
+   color : white;
+}
+#fb{
+	margin-top : 100px;
+	margin-left : 460px;
+	color : #AFC84B;
+	font-size : 23px;
+}
+#twitter{
+	margin-top : -23px;
+	margin-left : 515px;
+	color : #AFC84B;
+	font-size : 23px;
+	
+}
+
+#youtube{
+	margin-top : -23px;
+	margin-left : 570px;
+	color : #AFC84B;
+	font-size : 25px;
+	
+}
+
+#instagram{
+	margin-top : -25px;
+	margin-left : 625px;
+	color : #AFC84B;
+	font-size : 25px;
+	
+}

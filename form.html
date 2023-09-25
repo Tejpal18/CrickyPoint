@@ -1,0 +1,119 @@
+<?php
+include "connection.php";
+?>
+
+<html>
+<head>
+<title>
+</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="bootstrap/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="row" id="bg">
+<div class="col-md-12">
+<div class="row p-2" >
+<div class="col-md-4">
+<div class="nav">
+<a class="nav-brand" href="#">
+<img src="Logo.png" width="200" height="80" ></a>
+</div></div>
+<div class="col-md-6">
+<div class="nav" id="navmargin">
+<a href="home.php" class="nav-link text-light">Home</a>
+<a href="ourcoaches.php" class="nav-link text-light">Our Coaches</a>
+<a href="gallery.php" class="nav-link text-light">Gallery</a>
+<a href="blog.php" class="nav-link text-light">Blogs</a>
+<a href="form.php" class="nav-link text-light">Cotact Us</a>
+<a href="player.php"><button class="register">Register</button></a>
+</div></div>
+<h2 id="bgformg">Get In Touch</h2>
+<h2 id="bgformh">Home | Contact </h2>
+</div></div></div>
+<div class="row">
+<div class="col-md-12">
+<p id="fp">Get in Touch with Us</p>
+</div>
+<h1 id="fh">Don't hesitate to contuct us</h1>
+<form action="" method="post">
+<div class="form-group" id="form">
+<div class="row">
+<div class="col-md-6">
+<label class="labelfn">Name</label><br>
+<input type="text" placeholder="Name" class="nonen"name="name" required >
+</div>
+<div class="col-md-6">
+ <label class="labelfn">Phone</label><br>
+ <input type="tel" placeholder="Phone" class="nonen" name="phone"required ><br></div></div>
+ 
+ <label class="labelf">Subject</label><br> 
+<input type="text" placeholder="Subject" class="none" name="subject"required ><br>
+
+<label class="labelf">Message</label><br> 
+<textarea rows="100" cols="20" class="noneme" name="message" placeholder="Message">
+</textarea><br>
+
+<button class="sendmessage" name="btnsendmessage">Send Message</button>
+</div>
+</form>
+
+
+<?php 
+
+if (isset($_POST['btnsendmessage']))
+{
+$name=$_POST['name'];
+
+$subject=$_POST['subject'];
+
+$message=$_POST['message'];
+$phone=$_POST['phone'];
+$query="insert into contact(name,subject,message,phone) values('$name','$subject','$message','$phone')";
+
+if(mysqli_query($con,$query))
+{
+	
+	echo"<script>alert('Data Inserted')</script>";
+}
+else{
+	
+	echo mysqli_error($con);
+}
+}
+?>
+</div>
+
+
+</div>
+<div class="row" id="margin1">
+<div class="col-md-4 offset-1 opening">
+<img src="clock.png" width="150px" height="140px" class="openingmargin">
+<h3 class="openingtext">Opening Hours</h3>
+<p class="openingexp">6:00 AM-8:00 AM & 4:00 PM-7:00 PM</p></div>
+
+<div class="col-md-4 offset-1 opening">
+<img src="phonef.png" width="150px" height="140px" class="openingmargin">
+<h3 class="openingtext">Phone Number</h3>
+<p class="openingexp">+91 7347470554</p>
+
+
+
+</div></div>
+
+<div class="row" id="margin1">
+<div class="col-md-4 offset-1 opening">
+<img src="email.png" width="150px" height="140px" class="openingmargin">
+<h3 class="openingtext">Mail Address</h3>
+<p class="openingexp">tejpal7718@gmail.com</p></div>
+
+<div class="col-md-4 offset-1 opening">
+<img src="location.png" width="150px" height="140px" class="openingmargin">
+<h3 class="openingtext" >Location</h3>
+<p class="openingexp">Near Civil Hospital,Jaitu-Faridkot</p>
+
+
+
+</div></div>
+
+</html>

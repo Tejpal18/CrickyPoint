@@ -1,0 +1,125 @@
+<?php
+include "connection.php";
+?>
+
+<html>
+<head>
+<title>
+</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="bootstrap/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css">
+<link href="bootstrap/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+</head>
+<body>
+<div class="container-fluid">
+<div class="row" id="pl">
+
+<div class="col-md-12">
+<div class="row p-2" >
+
+<div class="col-md-4">
+<div class="nav">
+<a class="nav-brand" href="#">
+<img src="Logo1.png" width="300px" height="300px" class="logom" ></a>
+</div></div>
+<div class="col-md-6">
+<div class="nav" id="navmargin">
+<a href="home.php" class="nav-link text-light">Home</a>
+<a href="ourcoaches.php" class="nav-link text-light">Our Coaches</a>
+<a href="gallery.php" class="nav-link text-light">Gallery</a>
+<a href="blog.php" class="nav-link text-light">Blogs</a>
+<a href="form.php" class="nav-link text-light">Contact Us</a>
+</div></div>
+<div class="col-md-2" id="booknow"> 
+
+<a href="player.php"><button class="register">Register</button></a>
+</div>
+</div>
+<p id="bgformg">Be The Best</p>
+<p id="bgformo">Home | Register</p>
+</div></div>
+
+<div class="row">
+<div class="col-md-12">
+<p id="fp">Shape your Cricketing Career with us</p>
+
+<h1 id="fh">Register with us as a player</h1>
+
+
+<form action="" method="post" >
+<div class="form-group" id="form">
+
+
+
+<label class="labelfn">Name</label><br>
+<input type="text" placeholder="Name" class="form-control nonen" name="name"  required >
+
+<label class="labelf">Father Name</label><br>
+<input type="text" placeholder="Father Name" name="father" class="form-control nonen" required >
+
+<label class="labelf">Date Of Birth</label><br>
+<input type="date" placeholder="Date Of Birth" name="dob" class="form-control nonen" required>
+
+
+
+
+ <label class="labelf">City</label><br> 
+<input type="text" placeholder="City" name="city" class="form-control none" required ><br>
+
+ <label class="labelf">District</label><br> 
+<input type="text" placeholder="District" name="district" class="form-control none" required ><br>
+
+
+
+
+
+<label class="labelf">Phone</label><br>
+ <input type="tel" placeholder="Phone" class="form-control nonen" name="phone" required ><br>
+ 
+
+
+<button class="sendmessage" name="btnsubmit">Submit</button>
+</div>
+</form>
+
+<?php 
+
+if (isset($_POST['btnsubmit']))
+{
+$name=$_POST['name'];
+
+$father=$_POST['father'];
+
+$dob=$_POST['dob'];
+$city=$_POST['city'];
+$district=$_POST['district'];
+$phone=$_POST['phone'];
+$query="insert into player(name,father,dob,city,district,phone) values('$name','$father','$dob','$city','$district','$phone')";
+
+if(mysqli_query($con,$query))
+{
+	
+	echo"<script>alert('Data Inserted')</script>";
+}
+else{
+	
+	echo mysqli_error($con);
+}
+}
+?>
+</div></div>
+
+
+
+<?php 
+
+
+include'footer.php';
+?>
+</div>
+</body>
+</html>

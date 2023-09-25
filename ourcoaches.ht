@@ -1,0 +1,139 @@
+<?php
+
+include'connection.php'
+?>
+<html>
+<head>
+<title>
+</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="bootstrap/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="container-fluid">
+<div class="row" id="coaches">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
+<div class="row p-2" >
+<div class="col-md-4">
+<div class="nav">
+<a class="nav-brand" href="#">
+<img src="Logo.png" width="200px" height="80px" ></a>
+</div></div>
+<div class="col-md-6">
+<div class="nav" id="navmargin">
+<a href="home.php" class="nav-link text-light">Home</a>
+<a href="ourcoaches.php" class="nav-link text-light">Our Coaches</a>
+<a href="gallery.php" class="nav-link text-light">Gallery</a>
+<a href="blogs.php" class="nav-link text-light">Blogs</a>
+<a href="form.php" class="nav-link text-light">Cotact Us</a>
+</div></div>
+<div class="col-md-2" id="booknow"> 
+
+<button class="register">Register</button>
+</div>
+</div></div></div></div>
+<p class="meet">Meet the coach</p>
+<p id="bgcoach">Home | OurCoach</p>
+</div>
+<div class="row " id="margin2">
+<div class="col-md-4 offset-1 card " id="rs">
+<div class="row">
+<div class="col-md-6">
+<img src="bmbm.jpg" width="115%" height="100%" class="cm">
+</div>
+<div class="col-md-6">
+<h3 class="ourcoaches">Bapi Manna</h3>
+<p>Head Coach</p>
+<p>Bapi Manna is a well known name in C.A.B Super Division League. He is a well known spinner and also has the achievement for obtaining highest wicket.</p>
+
+
+<hr>
+
+<i class="fa fa-facebook coachi"  aria-hidden="true"></i>
+ 
+ <i class="fa fa-twitter coacht"  aria-hidden="true"></i>
+ <i class="fa fa-linkedin coachl" class="coachi" aria-hidden="true"></i>
+ 
+ 
+</div>
+</div>
+</div>
+
+<div class="col-md-4 offset-1 card  " id="rs">
+<div class="row">
+<div class="col-md-6">
+<img src="Sandipan Das.jpg" width="115%" height="100%" class="cm">
+</div>
+<div class="col-md-6">
+<h3 class="ourcoaches">Sandipan Das </h3>
+<p>Batting Coach</p>
+<p>Sandipan Das is an Indian First-class and List A Cricketer currently playing for Bengal.He has played for them in 2012-13 Ranji Trophy.</p>
+
+
+<hr>
+
+<i class="fa fa-facebook coachi"  aria-hidden="true"></i>
+ 
+ <i class="fa fa-twitter coacht"  aria-hidden="true"></i>
+ <i class="fa fa-linkedin coachl" class="coachi" aria-hidden="true"></i>
+
+</div>
+</div>
+</div>
+</div>
+<div class="row " id="margin2">
+<div class="col-md-4 offset-1 card " id="rs">
+<div class="row">
+<div class="col-md-6">
+<img src="Satyabrata Murmu.jpg" width="115%" height="100%" class="cm">
+</div>
+<div class="col-md-6">
+<h3 class="ourcoaches">Satyabrata</h3>
+<p>Fitness Coach</p>
+<p>Satyabrata Murmu is an Indian cricketer. He has played in Ranji Trophy for Bengal, Bengal U-22 and Bengal U-19.He made his first-class debut for Bengal in the 2017–18</p>
+
+
+<hr>
+
+<i class="fa fa-facebook coachi"  aria-hidden="true"></i>
+ 
+ <i class="fa fa-twitter coacht"  aria-hidden="true"></i>
+ <i class="fa fa-linkedin coachl" class="coachi" aria-hidden="true"></i>
+</div>
+</div>
+</div>
+
+<div class="col-md-4 offset-1 card" id="rs">
+<div class="row">
+<div class="col-md-6">
+<img src="Boddupalli Amit.jpg" width="115%" height="100%" class="cm">
+</div>
+<div class="col-md-6">
+<h3 class="ourcoaches">Boddupalli Amit</h3>
+<p >Bowling Coach</p>
+<p>Boddupalli Amit is an Indian cricketer.He made his List A debut on 27 February 2014, for Bengal in the 2013–14 Vijay Hazare Trophy.</p>
+
+
+
+<hr>
+
+<i class="fa fa-facebook coachi"  aria-hidden="true"></i>
+ 
+ <i class="fa fa-twitter coacht"  aria-hidden="true"></i>
+ <i class="fa fa-linkedin coachl" class="coachi" aria-hidden="true"></i>
+
+</div>
+</div>
+</div>
+</div>
+
+<?php 
+
+include'footer.php'
+?>
+</div>
